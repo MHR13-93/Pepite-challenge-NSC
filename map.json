@@ -101,7 +101,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"ondemand"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
