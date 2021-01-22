@@ -78,7 +78,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"ondemand"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +101,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"ondemand"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,7 +124,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"ondemand"
                 }],
          "type":"tilelayer",
          "visible":true,
