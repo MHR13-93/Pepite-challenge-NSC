@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"room2NSC"
                 }, 
                 {
                  "name":"jitsiTrigger",
