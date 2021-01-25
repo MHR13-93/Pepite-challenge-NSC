@@ -133,6 +133,11 @@
                  "name":"Openwebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1yTSJRvEaCP5H4OepawJ9_oj1-saGDWzZNxyW_WDdjMg\/edit?usp=sharing"
+                }, 
+                {
+                 "name":"OpenwebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
