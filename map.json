@@ -1193,8 +1193,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":321,
-         "source":"Tileset_32x32_32.tsx"
+         "image":"Tileset_32x32_32.png",
+         "imageheight":898,
+         "imagewidth":490,
+         "margin":0,
+         "name":"Tileset_32x32_32",
+         "spacing":0,
+         "tilecount":420,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
