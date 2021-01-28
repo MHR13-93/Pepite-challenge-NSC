@@ -1237,8 +1237,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":76261,
-         "source":"3.tsx"
+         "image":"..\/Number_Blocks_01_Set_4_64x64_3.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"3",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":64,
+         "tilewidth":64
         }, 
         {
          "columns":1,
