@@ -1224,8 +1224,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":741,
-         "source":"modernset_interior.tsx"
+         "image":"modernset_interior.png",
+         "imageheight":1600,
+         "imagewidth":512,
+         "margin":0,
+         "name":"modernset_interior",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
