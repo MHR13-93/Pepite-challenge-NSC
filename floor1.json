@@ -64,6 +64,11 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/13pZBk3rVGrrw3RZaL1BLnEmKOexBwGWctQ5IHnAHTCs\/edit"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
