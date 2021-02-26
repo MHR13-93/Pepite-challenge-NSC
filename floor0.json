@@ -133,6 +133,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ztq8Skdh7LS1p03YbVzf2Xfcxw7ECoMxHD10gMlsnCw\/edit#gid=0"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,9 +158,9 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/13pZBk3rVGrrw3RZaL1BLnEmKOexBwGWctQ5IHnAHTCs\/edit"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,9 +181,9 @@
                  "value":"https:\/\/www.youtube.com\/embed\/ysQFkzNMIDc"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
