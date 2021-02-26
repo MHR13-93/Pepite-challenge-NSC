@@ -67,11 +67,6 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,6 +85,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ztq8Skdh7LS1p03YbVzf2Xfcxw7ECoMxHD10gMlsnCw\/edit#gid=0"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
