@@ -205,7 +205,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room12"
                 }],
@@ -223,7 +223,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room13"
                 }],
@@ -241,12 +241,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room14"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -259,7 +259,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room15"
                 }],
@@ -277,7 +277,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room16"
                 }],
@@ -295,7 +295,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"room17"
                 }],
