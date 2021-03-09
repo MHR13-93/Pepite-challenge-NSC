@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/pepite-lr\/pepite-lr\/floor0"
                 }],
          "type":"tilelayer",
          "visible":false,

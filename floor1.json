@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/mhr13-93.github.io\/Pepite-challenge-NSC\/floor0.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/pepite-lr\/pepite-lr\/event"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -330,7 +330,7 @@
          "name":"Bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
